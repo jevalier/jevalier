@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jevalier
+- 👀 I’m interested in arduino projects for automatization and iot
+- 🌱 I’m currently learning everything related to this
+- 💞️ I’m looking to collaborate on github
